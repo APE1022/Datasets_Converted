@@ -1,1 +1,3 @@
 # Datasets_Converted
+## YOLO格式转VOC格式
+将py文件放置在yolo格式数据集文件夹下运行，最后将所有图片文件复制到JPEGImages文件夹下，详见py文件中的目录格式
